@@ -7,6 +7,7 @@ NewSance is a web application developed using ReactJS, bootstrap and NewsAPI.
 It uses React class based components, Router, OOP in JS and bootstrap card to present a news item on the page.
 
 # **Preview**
+![image](https://user-images.githubusercontent.com/61102500/151490456-c13b1b05-57f4-4d85-be0f-815dc48b03b5.png)
 
 ## **Features**
 
